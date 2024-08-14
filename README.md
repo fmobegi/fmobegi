@@ -4,7 +4,8 @@
 [![researchgate](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/50px-ResearchGate_icon_SVG.svg.png)](https://www.researchgate.net/profile/Fredrick-Mobegi)
 [![Rpubs](https://secure.gravatar.com/avatar/9fb32acdf223aa262950b1dd690abb78?s=50)](https://rpubs.com/fmobegi)
 
-#### Welcome :fox_face:
+### :fox_face: Hi There, welcome to my page!
+
 ![](<https://komarev.com/ghpvc/?username=fmobegi>)
 <p>__About me:__
 I'm a bioinformatician with a background in biochemistry and molecular microbiology, and experience in human health genomics (immunogenomics, cancer and cardiometabolic genomics), with a range of skills including (meta)genomics data analysis and integration, biomarkers discovery, genotype-phenotype association, microbiomics, transcriptomics, molecular epidemiology, population genetics, and scientific liaison. I am experienced in HPC and Cloud (Azure/AWS) computing, big data analysis frameworks (Hadoop and Spark), data management in SQL, programming in Python, Perl and R, and pipelining for sciences using NextFlow.
@@ -24,7 +25,8 @@ __A few hobbies:__
 When not in front of a computer working, I enjoy swimming, driving around with my family and exploring local cuisines. I Love soccer and rugby too because they are sports of extreme teamwork.
 Languages: English (Native-Proficient), Swahili (Native).</p>
 
-#### Skills  :heavy_check_mark:
+### :hammer_and_wrench: Languages and Tools:
+
 ![](https://go-skill-icons.vercel.app/api/icons?i=linux,r,py,docker,git,github,spark,postgresql,mysql,databricks)[![snakemake](https://avatars.githubusercontent.com/u/33450111?s=48&v=4)](https://github.com/snakemake)[![nextflow](https://avatars.githubusercontent.com/u/6698688?s=50&v=4)](https://github.com/nextflow-io/nextflow)
 <a href="https://your-link-here">
   <img src="https://code.benco.io/icon-collection/azure-icons/Data-Factory.svg" alt="Data Factory" width="40" height="40" style="margin-bottom: 5px;" />
@@ -40,7 +42,7 @@ Languages: English (Native-Proficient), Swahili (Native).</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmobegi&layout=compact&theme=dark)
 
-#### Workflows :floppy_disk:
+### :floppy_disk: Workflows:
 
 I am working on a couple of bioinformatics tools for TGS/NGS data genomics.
 
@@ -49,12 +51,15 @@ I am working on a couple of bioinformatics tools for TGS/NGS data genomics.
 - [`3-Tag-RNA-Seq-analysis`](https://github.com/fmobegi/3-Tag-RNA-Seq-analysis) A nextflow pipeline to do transcript counting from sequencing reads generated with Tag-Seq (v2.0).
 - [`eplet_match-app`](https://github.com/fmobegi/PathWest_Projects/tree/master/eplet_match-app) HLA-PANDORA: A novel web-based tool to determine the presence or absence of DSA against rare HLA alleles in the era of rapid high-resolution deceased donor HLA genotyping.
 
+### :fire: My Stats:
+
 ![stats](https://github-readme-stats.vercel.app/api?username=fmobegi&show_icons=true&theme=dark)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fmobegi&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
-#### Publications :scroll:
+### :scroll: Publications
 
 - [Investigating potential transmission of antimicrobial resistance in an open-plan hospital ward: a cross-sectional metagenomic study of resistome dispersion in a lower middle-income setting](https://www.ncbi.nlm.nih.gov/pubmed/33736699)
 - [The Impact of Long-Term Macrolide Exposure on the Gut Microbiome and Its Implications for Metabolic Control](https://www.ncbi.nlm.nih.gov/pubmed/37347185)
