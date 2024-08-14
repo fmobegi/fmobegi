@@ -2,16 +2,27 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/fmobegi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Fredrick-Mobegi" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-green?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Badge"/>
+  </a>
+  <a href="https://rpubs.com/fmobegi" target="_blank">
+    <img src="https://img.shields.io/badge/Rpubs-black?style=for-the-badge&logo=rstudio&logoColor=white" alt="Rpubs Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@fmobegi" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+</div>
 
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fmobegi/)
-[![researchgate](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/50px-ResearchGate_icon_SVG.svg.png)](https://www.researchgate.net/profile/Fredrick-Mobegi)
-[![Rpubs](https://secure.gravatar.com/avatar/9fb32acdf223aa262950b1dd690abb78?s=50)](https://rpubs.com/fmobegi)
-
-### :fox_face: Hi There, welcome to my page!
+## :fox_face: Hi There, welcome to my page!
 
 ![](<https://komarev.com/ghpvc/?username=fmobegi>)
-<p>__About me:__
+
+<p>
 I'm a bioinformatician with a background in biochemistry and molecular microbiology, and experience in human health genomics (immunogenomics, cancer and cardiometabolic genomics), with a range of skills including (meta)genomics data analysis and integration, biomarkers discovery, genotype-phenotype association, microbiomics, transcriptomics, molecular epidemiology, population genetics, and scientific liaison. I am experienced in HPC and Cloud (Azure/AWS) computing, big data analysis frameworks (Hadoop and Spark), data management in SQL, programming in Python, Perl and R, and pipelining for sciences using NextFlow.
 
 __Research interests:__
@@ -21,7 +32,7 @@ I specifically focus on microbial communities or immune-response-triggering stim
 
 As the clinical and biotechnology departments slowly embrace the use of next-generation sequencing and third-generation sequencing for diagnosis and monitoring, the ability to integrate genomics information with pathological, clinical, and environmental meta-information will facilitate the formulation of novel hypotheses and open possibilities for key discoveries, thus, unlocking several unmet epidemiological, diagnostic and therapeutic modalities that harness the power of technology and big data.
 
-Recently, am dipping my toes into Machine-Learning and Artificial Intelligence applications, Data magagement 
+Recently, am dipping my toes into Machine-Learning and Artificial Intelligence applications, Data magagement and analytics on the Microsoft Azure ecosystem, pipelining with Apache Airflow, RAG using python and openAI, and Data governance.
 
 I have continually improved my liaison skills through community engagements.
 
