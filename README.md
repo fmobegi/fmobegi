@@ -18,10 +18,14 @@
 </div>
 
 
-## :fox_face: Hi There, welcome to my page!
 
-![](<https://komarev.com/ghpvc/?username=fmobegi>)
 
+<img src="https://komarev.com/ghpvc/?username=fmobegi&style=flat-square&color=blue" alt=""/>
+
+<h1>
+  ## Hi There, welcome to my page
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <p>
 I'm a bioinformatician with a background in biochemistry and molecular microbiology, and experience in human health genomics (immunogenomics, cancer and cardiometabolic genomics), with a range of skills including (meta)genomics data analysis and integration, biomarkers discovery, genotype-phenotype association, microbiomics, transcriptomics, molecular epidemiology, population genetics, and scientific liaison. I am experienced in HPC and Cloud (Azure/AWS) computing, big data analysis frameworks (Hadoop and Spark), data management in SQL, programming in Python, Perl and R, and pipelining for sciences using NextFlow.
 
