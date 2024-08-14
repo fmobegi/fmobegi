@@ -69,10 +69,12 @@ I am working on a couple of bioinformatics tools for TGS/NGS data genomics.
 
 ### :fire: My Stats:
 
-![stats](https://github-readme-stats.vercel.app/api?username=fmobegi&show_icons=true&theme=dark)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fmobegi&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=fmobegi&show_icons=true&theme=dark" alt="stats" />
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=fmobegi&theme=dark&background=000000" alt="GitHub Streak" />
+  </a>
+</div>
 
 
 ### :scroll: Publications
