@@ -15,15 +15,18 @@
   <a href="https://www.youtube.com/@fmobegi" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
+
+  <img src="https://komarev.com/ghpvc/?username=fmobegi&style=flat-square&color=blue" alt=""/>
+
 </div>
 
 
-<img src="https://komarev.com/ghpvc/?username=fmobegi&style=flat-square&color=blue" alt=""/>
-
-<h1>
+<h1 style="text-align: center;">
   Hi There, welcome to my page
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<p></p>
+
 <p>
 I'm a bioinformatician with a background in biochemistry and molecular microbiology, and experience in human health genomics (immunogenomics, cancer and cardiometabolic genomics), with a range of skills including (meta)genomics data analysis and integration, biomarkers discovery, genotype-phenotype association, microbiomics, transcriptomics, molecular epidemiology, population genetics, and scientific liaison. I am experienced in HPC and Cloud (Azure/AWS) computing, big data analysis frameworks (Hadoop and Spark), data management in SQL, programming in Python, Perl and R, and pipelining for sciences using NextFlow.
 
@@ -40,7 +43,10 @@ I have continually improved my liaison skills through community engagements.
 
 __A few hobbies:__
 When not in front of a computer working, I enjoy swimming, driving around with my family and exploring local cuisines. I Love soccer and rugby too because they are sports of extreme teamwork.
-Languages: English (Native-Proficient), Swahili (Native).</p>
+Languages: English (Native-Proficient), Swahili (Native).
+
+</p>
+<div style="border-bottom: 1px solid #ccc; margin-top: 10px;"></div>
 
 ### :hammer_and_wrench: Languages and Tools:
 
@@ -58,6 +64,8 @@ Languages: English (Native-Proficient), Swahili (Native).</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmobegi&layout=compact&theme=dark)
 
+<div style="border-bottom: 1px solid #ccc; margin-top: 10px;"></div>
+
 ### :floppy_disk: Workflows:
 
 I am working on a couple of bioinformatics tools for TGS/NGS data genomics.
@@ -66,6 +74,8 @@ I am working on a couple of bioinformatics tools for TGS/NGS data genomics.
 - [`abo-analysis`](https://github.com/fmobegi/abo-analysis) ABO blood typing using Oxford Nanopore MinION sequencing.
 - [`3-Tag-RNA-Seq-analysis`](https://github.com/fmobegi/3-Tag-RNA-Seq-analysis) A nextflow pipeline to do transcript counting from sequencing reads generated with Tag-Seq (v2.0).
 - [`eplet_match-app`](https://github.com/fmobegi/PathWest_Projects/tree/master/eplet_match-app) HLA-PANDORA: A novel web-based tool to determine the presence or absence of DSA against rare HLA alleles in the era of rapid high-resolution deceased donor HLA genotyping.
+
+<div style="border-bottom: 1px solid #ccc; margin-top: 10px;"></div>
 
 ### :fire: My Stats:
 
@@ -76,6 +86,7 @@ I am working on a couple of bioinformatics tools for TGS/NGS data genomics.
   </a>
 </div>
 
+<div style="border-bottom: 1px solid #ccc; margin-top: 10px;"></div>
 
 ### :scroll: Publications
 
@@ -107,5 +118,20 @@ I am working on a couple of bioinformatics tools for TGS/NGS data genomics.
 [![ORCID](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAoUlEQVR4AWNAB8vOWSYA8X4g/o+MoWIJCJWYGhWA+DxIMT4MVaOATfN7kAIQuPx8zv9JBzTxGfIexRCYzWgGEHQJws8IQZBGOEYWX3PRFZshCQyIAMN0ATp4/OEgukH7GUAMPAbAXbLnVvb/Lz+f/b/3diuKemINgBsCBGQagJCnvgv2kxcGiEBMoCAWElASEon4PNakTBgjkjJVMhPF2RkA65dxrZ3ePawAAAAASUVORK5CYII)](https://orcid.org/my-orcid?orcid=0000-0003-0554-9919) [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-0554-9919)
 
 
+
+<!-- Footer Section -->
+<div style="border-top: 2px solid #ccc; padding: 10px; text-align: justify;">
+  Copyright &copy; Fredrick Mobegi | Department of Clinical Immunology; PathWest&#x00AE; Laboratory Medicine;
+  Government of Western Australia Department of Health.<br>
+  Resources on this site are offered freely and in good faith for educational and research purposes only. They may contain links to embargoed or legally privileged data.
+  Except as permitted by the copyright law applicable to you,
+  you may not reproduce or communicate any of the content on this page,
+  including files downloadable from this page, without written permission
+  of the copyright owner(s).<br>
+  Users acknowledge that they are using these resources at their own risk and agree to disclaim any liability
+  for any damage, real or perceived, arising from their use.<br>
+  These repositories are maintained by <a href="https://www.linkedin.com/in/fmobegi/"
+        target="_blank">Dr. Fredrick Mobegi</a>.
+</div>
 
 
