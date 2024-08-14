@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fmobegi/)
@@ -37,7 +41,6 @@ Languages: English (Native-Proficient), Swahili (Native).</p>
 <a href="https://azure.microsoft.com" target="_blank">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=azure" alt="Azure" width="40" height="40" style="margin-bottom: 5px;" />
 </a>
-
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmobegi&layout=compact&theme=dark)
