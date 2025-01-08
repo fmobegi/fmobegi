@@ -41,14 +41,14 @@ Recently, I am dipping my toes into Machine Learning and Artificial Intelligence
 
 I have continually improved my liaison skills through community engagements.
 
-__A few hobbies:__
+__Outside the office: A few hobbies:__
 When not in front of a computer working, I enjoy swimming, driving around with my family, and exploring local cuisines. I love soccer and rugby too because they are sports of extreme teamwork.
 Languages: English (Native-Proficient), Swahili (Native).
 </p>
 
 <div style="border-bottom: 1px solid #ccc; margin-top: 10px;"></div>
 
-### :hammer_and_wrench: Languages and Tools
+### :hammer_and_wrench: Languages and Tools I Have Used
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=linux,r,py,docker,git,github,spark,postgresql,mysql,databricks)
 [![snakemake](https://avatars.githubusercontent.com/u/33450111?s=48&v=4)](https://github.com/snakemake)
@@ -67,14 +67,14 @@ Languages: English (Native-Proficient), Swahili (Native).
 
 <div style="border-bottom: 1px solid #ccc; margin-top: 10px;"></div>
 
-### :floppy_disk: Workflows
+### :floppy_disk: Workflows and Pipelines
 
 I am working on a couple of bioinformatics tools for TGS/NGS data genomics.
 
 - [`HLADiversity`](https://github.com/fmobegi/HLADiversity) HLA Allele Frequency Diversity R Package.
 - [`abo-analysis`](https://github.com/fmobegi/abo-analysis) ABO blood typing using Oxford Nanopore MinION sequencing.
 - [`3-Tag-RNA-Seq-analysis`](https://github.com/fmobegi/3-Tag-RNA-Seq-analysis) A nextflow pipeline to do transcript counting from sequencing reads generated with Tag-Seq (v2.0).
-- [`eplet_match-app`](https://github.com/fmobegi/PathWest_Projects/tree/master/eplet_match-app) HLA-PANDORA: A novel web-based tool to determine the presence or absence of DSA against rare HLA alleles in the era of rapid high-resolution deceased donor HLA genotyping.
+- [`eplet_match-app`](https://github.com/fmobegi/PathWest_Projects/tree/master/eplet_match-app) HLA-EP-RESOLVER: A novel web-based tool to determine the presence or absence of DSA against rare HLA alleles in the era of rapid high-resolution deceased donor HLA genotyping.
 
 <div style="border-bottom: 1px solid #ccc; margin-top: 10px;"></div>
 
