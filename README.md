@@ -125,13 +125,10 @@ I am working on a couple of bioinformatics tools for TGS/NGS data genomics.
 <div style="border-top: 1px solid #ccc; padding: 10px; text-align: justify;">
   Copyright &copy; Fredrick Mobegi | Department of Clinical Immunology; PathWest&#x00AE; Laboratory Medicine;
   Government of Western Australia Department of Health.<br>
-  Resources on this site are offered freely and in good faith for educational and research purposes only. They may contain links to embargoed or legally privileged data.
-  Except as permitted by the copyright law applicable to you,
-  you may not reproduce or communicate any of the content on this page,
-  including files downloadable from this page, without written permission
-  of the copyright owner(s).<br>
-  Users acknowledge that they are using these resources at their own risk and agree to disclaim any liability
-  for any damage, real or perceived, arising from their use.<br>
+  Resources on this site are a personal collection of the author and offered freely and in good faith for educational and research purposes only. 
+  They may contain links to embargoed or legally privileged data. Except as permitted by the copyright law applicable to you, you may not reproduce or communicate any of the content on this page, including files downloadable from this page, without written permission of the copyright owner(s).<br>
+  All users acknowledge that they access and use these resources entirely at their own risk. By doing so, they agree to disclaim any liability for any harm, loss, or damage, real or perceived, that may arise from such use.<br>
   These repositories are maintained by <a href="https://www.linkedin.com/in/fmobegi/" target="_blank">Dr. Fredrick Mobegi</a>.
 </div>
 <div style="border-top: 1px solid #ccc; padding: 10px; text-align: justify;"></div>
+
