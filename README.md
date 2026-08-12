@@ -48,22 +48,42 @@ Languages: English (Native-Proficient), Swahili (Native).
 
 <div style="border-bottom: 1px solid #ccc; margin-top: 10px;"></div>
 
-### :hammer_and_wrench: Tools of Trade
+<div align="left">
+  <h1>Tech Stack Overview</h1>
+  <p>Languages, tools, cloud platforms, and workflow engines I use.</p>
+</div>
 
-![](https://go-skill-icons.vercel.app/api/icons?i=linux,r,py,docker,git,github,spark,postgresql,mysql,databricks)
+## Programming & Scripting
+
+![](https://go-skill-icons.vercel.app/api/icons?i=linux,r,py,git,github)
+
+## Data Management
+
+![](https://go-skill-icons.vercel.app/api/icons?i=spark,postgresql,mysql,databricks)
+
+## Cloud Services
+
+<a href="https://aws.amazon.com">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws" width="40" height="40">
+</a>
+
+<a href="https://azure.microsoft.com">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure" width="40" height="40">
+</a>
+
+<a href="https://azure.microsoft.com">
+  <img src="https://code.benco.io/icon-collection/azure-icons/Data-Factory.svg" width="40" height="40">
+</a>
+
+## Workflow Orchestration & Pipelines
+
+![](https://go-skill-icons.vercel.app/api/icons?i=docker)
 [![snakemake](https://avatars.githubusercontent.com/u/33450111?s=48&v=4)](https://github.com/snakemake)
 [![nextflow](https://avatars.githubusercontent.com/u/6698688?s=50&v=4)](https://github.com/nextflow-io/nextflow)
-<a href="https://azure.microsoft.com" target="_blank">
-  <img src="https://code.benco.io/icon-collection/azure-icons/Data-Factory.svg" alt="Data Factory" width="40" height="40" style="margin-bottom: 5px;" />
-</a>
-<a href="https://aws.amazon.com" target="_blank">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="AWS" width="40" height="40" style="margin-bottom: 5px;" />
-</a>
-<a href="https://azure.microsoft.com" target="_blank">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure" alt="Azure" width="40" height="40" style="margin-bottom: 5px;" />
-</a>
 
-[![Top Langs](https://vercel.app)](https://github.com)
+## Language Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmobegi&layout=compact&theme=dark)
 
 <div style="border-bottom: 1px solid #ccc; margin-top: 10px;"></div>
 
