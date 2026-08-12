@@ -48,7 +48,7 @@ Languages: English (Native-Proficient), Swahili (Native).
 
 <div style="border-bottom: 1px solid #ccc; margin-top: 10px;"></div>
 
-### :hammer_and_wrench: Languages and Tools I Have Used
+### :hammer_and_wrench: Tools of Trade
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=linux,r,py,docker,git,github,spark,postgresql,mysql,databricks)
 [![snakemake](https://avatars.githubusercontent.com/u/33450111?s=48&v=4)](https://github.com/snakemake)
@@ -63,7 +63,7 @@ Languages: English (Native-Proficient), Swahili (Native).
   <img src="https://go-skill-icons.vercel.app/api/icons?i=azure" alt="Azure" width="40" height="40" style="margin-bottom: 5px;" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmobegi&layout=compact&theme=dark)
+[![Top Langs](https://vercel.app)](https://github.com)
 
 <div style="border-bottom: 1px solid #ccc; margin-top: 10px;"></div>
 
@@ -72,7 +72,7 @@ Languages: English (Native-Proficient), Swahili (Native).
 I am working on a couple of bioinformatics tools for TGS/NGS data genomics.
 
 - [`HLADiversity`](https://github.com/fmobegi/HLADiversity) HLA Allele Frequency Diversity R Package.
-- [`abo-analysis`](https://github.com/fmobegi/abo-analysis) ABO blood typing using Oxford Nanopore MinION sequencing.
+- [`nf-core/abotyper`](https://github.com/nf-core/abotyper) ABO blood typing using Oxford Nanopore MinION sequencing.
 - [`3-Tag-RNA-Seq-analysis`](https://github.com/fmobegi/3-Tag-RNA-Seq-analysis) A nextflow pipeline to do transcript counting from sequencing reads generated with Tag-Seq (v2.0).
 - [`eplet_match-app`](https://github.com/fmobegi/PathWest_Projects/tree/master/eplet_match-app) HLA-EP-RESOLVER: A novel web-based tool to determine the presence or absence of DSA against rare HLA alleles in the era of rapid high-resolution deceased donor HLA genotyping.
 
@@ -90,6 +90,7 @@ I am working on a couple of bioinformatics tools for TGS/NGS data genomics.
 <div style="border-bottom: 1px solid #ccc; margin-top: 10px;"></div>
 
 ### :scroll: Publications
+
 - [Advances and perspectives in computational prediction of microbial gene essentiality](https://www.ncbi.nlm.nih.gov/pubmed/26857942)
 - [Allele Level Sequencing of Killer Cell Immunoglobulin-Like Receptor Genes Using Oxford Nanopore Long Read Sequencing](https://pmc.ncbi.nlm.nih.gov/articles/PMC12455268/)
 - [Analysis of differentially expressed Sclerotinia sclerotiorum genes during the interaction with moderately resistant and highly susceptible chickpea lines](https://www.ncbi.nlm.nih.gov/pubmed/33964897)
@@ -125,10 +126,9 @@ I am working on a couple of bioinformatics tools for TGS/NGS data genomics.
 <div style="border-top: 1px solid #ccc; padding: 10px; text-align: justify;">
   Copyright &copy; Fredrick Mobegi | Department of Clinical Immunology; PathWest&#x00AE; Laboratory Medicine;
   Government of Western Australia Department of Health.<br>
-  Resources on this site are a personal collection of the author and offered freely and in good faith for educational and research purposes only. 
+  Resources on this site are a personal collection of the author and offered freely and in good faith for educational and research purposes only.
   They may contain links to embargoed or legally privileged data. Except as permitted by the copyright law applicable to you, you may not reproduce or communicate any of the content on this page, including files downloadable from this page, without written permission of the copyright owner(s).<br>
   All users acknowledge that they access and use these resources entirely at their own risk. By doing so, they agree to disclaim any liability for any harm, loss, or damage, real or perceived, that may arise from such use.<br>
   These repositories are maintained by <a href="https://www.linkedin.com/in/fmobegi/" target="_blank">Dr. Fredrick Mobegi</a>.
 </div>
 <div style="border-top: 1px solid #ccc; padding: 10px; text-align: justify;"></div>
-
