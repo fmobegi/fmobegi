@@ -27,6 +27,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+ [![Fredrick's GitHub stats](https://github-stats-extended.vercel.app/api/?username=fmobegi&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Fredrick's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=fmobegi&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Fredrick's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+
 <p>
 I'm a bioinformatician with a background in biochemistry and molecular microbiology, and experience in human health genomics (immunogenomics, cancer and cardiometabolic genomics), with a range of skills including (meta)genomics data analysis and integration, biomarkers discovery, genotype-phenotype association, microbiomics, transcriptomics, molecular epidemiology, population genetics, and scientific liaison. I am experienced in HPC and Cloud (Azure/AWS) computing, big data analysis frameworks (Hadoop and Spark), data management in SQL, programming in Python, Perl and R, and pipelining for life sciences using NextFlow.
 
@@ -49,7 +51,7 @@ Languages: English (Native-Proficient), Swahili (Native).
 <div style="border-bottom: 1px solid #ccc; margin-top: 10px;"></div>
 
 <div align="left">
-  <h1>Tech Stack Overview</h1>
+  <h1>:hammer_and_wrench: Tech Stack Overview</h1>
   <p>Languages, tools, cloud platforms, and workflow engines I use.</p>
 </div>
 
@@ -83,7 +85,7 @@ Languages: English (Native-Proficient), Swahili (Native).
 
 ## Language Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmobegi&layout=compact&theme=dark)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=fmobegi&langs_count=8)
 
 <div style="border-bottom: 1px solid #ccc; margin-top: 10px;"></div>
 
